@@ -1,10 +1,4 @@
  /*
-  * Papildināt nodarbībā veidoto C++ programmu, kas izveido 
-  * stekus A, B un C. Stekos A un B tiek ierakstīti pa 15 gadījuma 
-  * skaitļiem. Stekā C ieraksta vispirms visus steka A elementus 
-  * un pēc tam - visus steka B  elementus (kopā - stekā C jābūt 30 
-  * elementiem).Izdrukāt visu trīs steku vērtības ekrānā.
-  * 
   * -- 
   * build with Geany & gcc version 6.3.0 20170516 (Debian 6.3.0-18+deb9u1) 
 */
